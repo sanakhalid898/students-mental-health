@@ -16,3 +16,6 @@ Length of Stay
 Acculturative Stress
 Other relevant demographic details
 By leveraging SQL queries, we aim to uncover patterns and insights that can inform interventions and support services for students facing mental health challenges.
+
+You can view the full project on [DataCamp](https://www.datacamp.com/datalab/w/7d862ae9-d23b-4b54-95f6-76617d503cf4/edit).
+
